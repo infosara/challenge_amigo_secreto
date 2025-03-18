@@ -52,6 +52,6 @@ Um projeto simples de **Amigo Secreto** feito com **HTML, CSS e JavaScript**, on
 
 1️⃣ Clone o repositório:
 ```bash
-git clone https://github.com/infosara/challenge_amigo_secreto/tree/main
+git clone https://github.com/infosara/challenge_amigo_secreto
 
 📌 Feito com ❤️ por Sara Cordeiro
